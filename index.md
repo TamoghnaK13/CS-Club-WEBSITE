@@ -6,10 +6,9 @@
   </h1>
 
   <p>
-    <strong>A simple AdBlocker for all your ad blocking needs that respects your privacy.</strong>
+    <strong>This site is still under development</strong>
   </p>
 </div>
-This is a simple Chrome Extension that you can trust that does not require special permissions.
 <div align="center">
 </div>
 
