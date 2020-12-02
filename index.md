@@ -1,8 +1,8 @@
 <link rel="shortcut icon" type="128-icon.png" href="favicon.ico">
-<a href="https://github.com/TamoghnaK13/AdBlockify">
+<a href="https://classroom.google.com/u/1/c/MTczMzk2MDk2OTQ5">
 <div align="center">
  <h1>
-    The Ultimate AdBlocker for your browser
+    The CS Club site.
   </h1>
 
   <p>
@@ -13,18 +13,8 @@ This is a simple Chrome Extension that you can trust that does not require speci
 <div align="center">
 </div>
 
-I have recently made this extension, so be sure to check for updates!
+I have recently made this site, so be sure to check for updates!
 >Email me at tamoghnak13@gmail.com if you want to collaborate!
-
-## Features
-
-<dl>
-  <dt>Buttons</dt>
-  <dd>
-    It is a very simple ad blocker currently with only 2 options.
-  </dd>
-</dl>
-
 <dl>
   <dt>Updates</dt>
   <dd>
@@ -39,10 +29,9 @@ Updates will come around once a month with new features, bug fixes, and other ch
 
 
 ____________________________________________________________________________________________________________________________________________________________________
-This project is licensed under the [**MIT License**](https://en.wikipedia.org/wiki/MIT_License). 
 
 If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
 
 
-[**Tamoghna Kommaraju**](https://github.com/TamoghnaK13), [**AdSword**](https://github.com/TamoghnaK13/AdSword-Ad-Blocker)
+[**Tamoghna Kommaraju**](https://github.com/TamoghnaK13), [**CS Club Website**](https://github.com/TamoghnaK13/AdSword-Ad-Blocker)
 
