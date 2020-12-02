@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    
+
+    <header class="page-header" role="banner">
+      <div align="center">
+  <img src="128-icon.png" alt=":)">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="https://classroom.google.com/u/1/c/MTczMzk2MDk2OTQ5" class="btn"> Go to the Computer Science Club Google Classroom
+      <a href="https://tamoghnak13.github.io/About-Me-Page/"class="btn">Go to Tamoghna's About Me Page</a>
+      {% endif %}
+      {% if site.show_downloads %}
+      {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-credits">The creator of this site is<a href="https://tamoghnak13.github.io/About-Me-Page/Tamoghna Kommaraju</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
